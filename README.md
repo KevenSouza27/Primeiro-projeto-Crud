@@ -5,7 +5,7 @@ Para entrar no banco de dados abra ele através do phpMyAdmin digitando em seu s
 usuário: root 
 senha: ""
 para ter acesso a API, digitando em seu servidor local =(http://localhost/sistema_cadastro/).
-importante que todos os arquivos estejam hospedados em seu servidor local, wamp de preferencia. 
+importante que todos os arquivos  estejam armazenados em seu servidor local.
 
 para criação do banco de dados foi usada o banco de dados MySQL pois é o banco que tive mais contato e consequentemente o que tenho mais conhecimento, juntamente com servidor local wamp, não ouve critérios para escolha dessa ferramenta utilizei ela pois foi a que tenho instalada em minha maquina.
 para a criação da API foram usadas ferramentas como php pois foi um dos requisitos e também por ser uma linguagem bem pratica de se utilizar, utilizei também o bootstrap framework pois foi um dos frameworks que tive mais contato até hoje em minha vida acadêmica e me sente mais confortável em utiliza-lo.
